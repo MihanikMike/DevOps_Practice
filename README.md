@@ -6,3 +6,5 @@ This is my git project for DevOps.
 - Version control basics
 - Branching starategies
 - Collaboration workflows
+## Author
+Kim Smith
